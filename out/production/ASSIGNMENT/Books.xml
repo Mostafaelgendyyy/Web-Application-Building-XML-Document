@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Catalogue>
+    <Book ID="BK101">
+        <Author>fsd</Author>
+        <Title>sadf</Title>
+        <Genre>asfd</Genre>
+        <Price>45.0</Price>
+        <Publish_Date>2001-09-06</Publish_Date>
+        <Description>sfa</Description>
+    </Book>
+</Catalogue>
